@@ -20,3 +20,5 @@ Before this tutorial participant should be familair with programming environment
 * Reactive Extensions
   * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
   * [C# Reactive Extensions (Rx) Koans](https://github.com/ttu/csharp-rx-koans)
+
+Hier gibt es eine neue Info 
